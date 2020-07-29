@@ -9,5 +9,6 @@ If you already have these:
 * Storage: SSD is better and it will build if you have HDD too.. 250GB is a decent amount of space 
 * Some "NOT_A_RETARD" Linux knowledge and Basic ideas about Git.
 * You need to have the TREES.. ( Device Tree , Kernel Tree {Or use a prebuilt one - not recommended} , Vendor Tree {And A Common Tree if available})
+* A GitHub Account or a GitLab account! (Preferably with the trees forked/imported)
 
 # Yaay! You're ready to build
