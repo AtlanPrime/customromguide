@@ -2,13 +2,23 @@
 
 * This is important to do before cloning the device specific trees
 
+But before that we need to configure our git as shown below
+Open the command line.
+Set your username:
+```bash
+git config --global user.name "FIRST_NAME LAST_NAME"
+```
+Set your email address:
+```bash
+git config --global user.email "MY_NAME@example.com"
+```
 Some Popular ROMs
 
 * [**DirtyUnicorns**](https://github.com/DirtyUnicorns)
 * [**LineageOS**](https://github.com/LineageOS)
 * [**AOSPA**](https://github.com/AOSPA)
 
-Find the GitHub org of the ROM you need to build and sync it like shown below
+Now find the GitHub org of the ROM you need to build and sync it like shown below
 
 ```bash
 # we need to make a folder for the ROM first (Example LineageOS)
