@@ -15,8 +15,8 @@ If you already have these:
 
 # Steps:
 
-1. [**Set Up a Build Environment**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/StepOne.md)
-2. [**Downloading a ROM Source**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/StepTwo.md)
-3. [**Know your Device sources aka Tree**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/StepThree.md)
-4. [**Basic Bringup and Sync device source**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/StepFour.md)
-5. [**Lets build it!**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/StepFive.md)
+1. [**Set Up a Build Environment**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/steps/StepOne.md)
+2. [**Downloading a ROM Source**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/steps/StepTwo.md)
+3. [**Know your Device sources aka Tree**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/steps/StepThree.md)
+4. [**Basic Bringup and Sync device source**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/steps/StepFour.md)
+5. [**Lets build it!**](https://github.com/AtlanPrime/wip-ROM-Guide/blob/master/steps/StepFive.md)
