@@ -2,14 +2,14 @@
 
 Files to change for AOSP Android 10 Bringup
 * AndrpidProducts.mk
-* <romname>_<devicename>.mk (eg: lineage_tulip.mk)
+* romname_devicecodename.mk (eg: lineage_tulip.mk)
 
 Example Bringup Commits:
 
 Bringup for DU: 
 https://github.com/AtlanPrime/decommonised_device_xiaomi_miatoll/commit/7077b40c32f45f730bbf3604375b5a8a7a1dc39b
 
-Here, all you have to do is edit the AndroidProducts.mk file and <romname>_<devicename>.mk according to
+Here, all you have to do is edit the AndroidProducts.mk file and romname_devicecodename.mk according to
 the rom u want to build.
 Use the example commit as a reference
 
