@@ -10,9 +10,9 @@ Instructions to build are pretty straight and most of the time it's specidied in
 
 * Now we need to lunch
 
-lunch lineage_$device-userdebug
-lunch lineage_$device-eng
-lunch lineage_$device-user 
+"lunch lineage_$device-userdebug",
+"lunch lineage_$device-eng",
+"lunch lineage_$device-user" 
 
 These are the three types of lunch commands..
 "userdebug" is the normal lunch type for release builds
