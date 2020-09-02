@@ -38,6 +38,12 @@ cd lineage
 # So it goes like:
 repo init -u git://github.com/LineageOS/android.git -b lineage-17.1
 
+# As an alternative you can do a shallow clone to reduce size of the source..
+# A Shallow Clone only clones the source with the last commit history specified
+
+repo init --depth=1 -u git://github.com/LineageOS/android.git -b lineage-17.1
+
+
 # And to Sync it
 repo sync
 ```
