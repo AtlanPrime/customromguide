@@ -1,7 +1,7 @@
 # Build a ROM for your Device!
 
 If you already have these:
-* A linux Environment (Personal Choice : Ubuntu 18.04 LTS or Linux Mint 19 Cinnamon)
+* A linux Environment (Recommended : Ubuntu 20.04 LTS)
 * A decent Internet Connection (You should be able to download at least 500 Kb in a Second)
   Because ROM sources could be 16 GB approx. even when shallow cloned.
 * RAM: 8 GB Minimum (+ ZRAM + SWAP optional)
