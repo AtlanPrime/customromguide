@@ -1,6 +1,6 @@
 # Lets build it!
 
-Instructions to build are pretty straight and most of the time it's specidied in the manifest (android- in case of lineageos)
+Instructions to build are pretty straight and most of the time it's specified in the manifest (android- in case of lineageos)
 
 * First thing to do is set up build enviromnent
 
