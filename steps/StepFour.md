@@ -1,7 +1,7 @@
 # Basic Bringup and Sync device source
 
 Files to change for AOSP Android 10 Bringup
-* AndrpidProducts.mk
+* AndroidProducts.mk
 * romname_devicecodename.mk (eg: lineage_tulip.mk)
 
 Example Bringup Commits:
